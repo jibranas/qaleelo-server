@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Quiz.css"],"names":[],"mappings":"AAAA,cACI,uBACJ,CAMA,yBACI,KACI,oBACJ,CACJ","file":"5.0a19f91f.chunk.css","sourcesContent":[".SampleButton {\r\n    background-color:purple;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n@media (min-width: 550px) {\r\n    .new{\r\n        background-color: red;\r\n    }\r\n}\r\n"]}

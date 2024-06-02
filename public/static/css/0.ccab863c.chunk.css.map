@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Buttons.module.css"],"names":[],"mappings":"AAAA,6BACI,qBACJ","file":"0.ccab863c.chunk.css","sourcesContent":[".SampleButton {\r\n    background-color: grey;\r\n}"]}
